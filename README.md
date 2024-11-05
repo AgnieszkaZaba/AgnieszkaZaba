@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi! I'm Aga :frog:
+
+I'm trying to do my best :)
+
+Do you have any questions for me? Or answers? \
+Do you need a little help? Or want to help me? --- just send a message!
+
+
 
 <!--
 **AgnieszkaZaba/AgnieszkaZaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
