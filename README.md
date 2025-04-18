@@ -6,7 +6,8 @@ Do you have any questions for me? Or answers? \
 Do you need a little help? Or want to help me? --- just send a message!
 
 
-
+`azaba@agh.edu.pl`
+`zabcia.aga@gmail.com`
 <!--
 **AgnieszkaZaba/AgnieszkaZaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
