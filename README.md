@@ -1,26 +1,26 @@
 ## Hi! I'm Aga :frog:
-I am a PhD student in the [AGH Environmental Physics Group](https://zfs.agh.edu.pl/en). My research focuses on cloud microphysics. ☁️💧⚛️ 
+I am a PhD student in the [Environmental Physics Group](https://zfs.agh.edu.pl/en) at [AGH University of Krakow](https://www.fis.agh.edu.pl/en) 🇵🇱.\
+My research focuses on cloud microphysics. ☁️💧⚛️ 
 
 &nbsp;
 
 
 💬 Talks:
   - **[FOSDEM'25](https://fosdem.org/2025/schedule/speaker/agnieszka_zaba/)** \
-    Title: _open-atmos-jupyter-utils_ \
+    Title: _open-atmos-jupyter-utils_\
     [![recording](https://img.shields.io/badge/-recording-lightgrey?style=flat-square)](https://ftp.fau.de/fosdem/2025/k1105/fosdem-2025-6674-lightning-lightning-talks.mp4#t=24:31,28:25)
-    [![slides locally](https://img.shields.io/badge/-slides-darkgreen?style=flat-square)](https://github.com/AgnieszkaZaba/talks/blob/main/2025_FOSDEM_LLT1.pdf)
+    [![slides locally](https://img.shields.io/badge/-slides-blue?style=flat-square)](https://github.com/AgnieszkaZaba/talks/blob/main/2025_FOSDEM_LLT1.pdf)
     
     
 
   - **[SEA Improving Scientific Software Conference](https://sea.ucar.edu/iss/2025/)** \
-    Title: _Continuous Integration with research notebooks: on maintaining reproducibility in atmospheric modeling_ \
-    
+    Title: _Continuous Integration with research notebooks: on maintaining reproducibility in atmospheric modeling_\
     [![recording](https://img.shields.io/badge/-recording-lightgrey?style=flat-square&logo=YouTube&logoColor=%23FF0000)](https://www.youtube.com/watch?v=ErMtewdCY4s&t=16375s)
-    [![slides](https://img.shields.io/badge/-slides-darkgreen?style=flat-square)](https://drive.google.com/file/d/1Gf215UR210X6DQjqLQ-upcUAK-60idcf/view?usp=drive_link)
+    [![slides](https://img.shields.io/badge/-slides-blue?style=flat-square)](https://github.com/AgnieszkaZaba/talks/blob/main/2025_ISS_Conference.pdf)
 
 
-❓ Do you have any questions for me? Or answers? \
-🤷🏾 Do you need a little help? Or want to help me? --- just send a message!\
+❓ Do you have any questions for me? Or answers?\
+🤷🏾 Do you need a little help? Or want to help me? --- just send a message!
 
 I'm trying to do my best :)
 
